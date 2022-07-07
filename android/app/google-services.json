@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1052905327252",
+    "project_id": "i-market-41731",
+    "storage_bucket": "i-market-41731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052905327252:android:e80c2691505775fec5c281",
+        "android_client_info": {
+          "package_name": "com.example.imarket_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052905327252-u5s500tgn8t1udfg2rk99mfg8oo04p2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imarket_app",
+            "certificate_hash": "f22dd44aca9f9cbf6ee2328591d2b2860f336cef"
+          }
+        },
+        {
+          "client_id": "1052905327252-oghi3c8np371krv04kq5ge2k6guh0eni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByhraf4QBG8-qAVkdyJSl-jnNV4f92wKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052905327252-oghi3c8np371krv04kq5ge2k6guh0eni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
